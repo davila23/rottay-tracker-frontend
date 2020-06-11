@@ -19,11 +19,11 @@ Events Flow :
 ## Dependency Table
 | Name        | Version           |
 | ------------- |:-------------: |
-| [EventStore](https://eventstore.org)      | latest |
+| [EventStore](https://eventstore.org)      | Latest |
 | [Node.js](https://nodejs.org)      | Dubnium      |
 | [TypeScript](https://www.typescriptlang.org) | 3      |
 | [Docker Compose](https://docker.com) | 3      |
-| [Postgres](https://www.postgresql.org/) | latest     |
+| [Postgres](https://www.postgresql.org/) | Latest     |
 
 
 ## Installation
