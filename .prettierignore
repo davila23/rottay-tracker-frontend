@@ -1,0 +1,5 @@
+/dist
+/node_modules
+locations.json
+locodes.json
+shipments.json
