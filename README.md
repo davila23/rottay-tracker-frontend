@@ -1,6 +1,4 @@
-# Cacodemon 👹
 
-CargoPanel's frontend
 
 ### Requires
 
