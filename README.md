@@ -43,14 +43,31 @@ $ ./scripts/up.sh    # to start
 $ ./scripts/down.sh  # to stop
 ```
 
+## Swagger
 
-Swagger Explorer URL: http://localhost:7070/api
+URL: http://localhost:7070/api
 
-Event Store URL: http://localhost:2113
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*r-UR2jA0fkNqU8OyC1g-cQ.png" width="600" alt="Logo" />
+</p>
+
+
+## Swagger
+URL: http://localhost:2113
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*UYEGsbo99M8jlx4DWZgqng.png" width="600" alt="Logo" />
+</p>
+
+
+## Postgres
+
+```bash
 
 Postgres: > command : psql -h localhost -U postgres 
           > psw     : postgres
 
-
+```
 
 
