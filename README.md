@@ -1,20 +1,21 @@
-# Cacodemon 👹
 
-CargoPanel's frontend
+## Description
 
-### Requires
+Proof of concept CQRS Architecture with Nestjs, Typescript, EventStore running in docker
 
-- Node v14.3.0
-- Yarn v1.22.4
+## Installation
 
-### Installation
-
-```sh
+```bash
 $ yarn
 ```
 
-### Usage
+## Running the app
 
-```sh
-$ yarn run start
+```bash
+# run
+$ yarn start
+
+# run using with Docker
+$ ./scripts/up.sh    # to start
+$ ./scripts/down.sh  # to stop
 ```

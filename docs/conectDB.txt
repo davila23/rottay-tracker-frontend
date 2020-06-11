@@ -1,0 +1,7 @@
+>> psql -h localhost -U postgres
+
+>> postgres
+
+>>  \l    --> DB list
+
+>>  \dt   --> Tables list
