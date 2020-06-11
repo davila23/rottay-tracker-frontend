@@ -1,5 +1,8 @@
 
+<<<<<<< HEAD
 ## Description
+=======
+>>>>>>> a614f73895fda5f15aa8a0738bffdbaab23c2ed4
 
 Proof of concept CQRS Architecture with Nestjs, Typescript, EventStore running in docker
 
