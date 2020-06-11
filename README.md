@@ -43,6 +43,7 @@ $ ./scripts/up.sh    # to start
 $ ./scripts/down.sh  # to stop
 ```
 
+
 ## Swagger
 
 URL: http://localhost:7070/api
@@ -53,7 +54,7 @@ URL: http://localhost:7070/api
 </p>
 
 
-## Swagger
+## Event Store
 URL: http://localhost:2113
 
 <p align="center">
@@ -65,9 +66,8 @@ URL: http://localhost:2113
 
 ```bash
 
-Postgres: > command : psql -h localhost -U postgres 
-          > psw     : postgres
+ >  psql -h localhost -U postgres 
+ >  postgres
 
 ```
-
 
