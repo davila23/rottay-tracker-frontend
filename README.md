@@ -3,6 +3,16 @@
 
 Proof of concept CQRS Architecture with Nestjs, Typescript, EventStore running in docker.
 
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1202/1*qCy2-p3v-9sbagBpex1CrA.png" width="320" alt="Logo" />
+</p>
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*thQY-4Enoc-66V3724AOCA.png" width="600" alt="Logo" />
+</p>
+
+
 ## Dependency Table
 | Name        | Version           |
 | ------------- |:-------------: |
@@ -39,14 +49,5 @@ Postgres: > command : psql -h localhost -U postgres
           > psw     : postgres
 
 
-<p align="center">
-  <img src="https://miro.medium.com/max/1202/1*qCy2-p3v-9sbagBpex1CrA.png" width="320" alt="Logo" />
-</p>
-
-
-  <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*thQY-4Enoc-66V3724AOCA.png" width="320" alt="Logo" />
-</p>
-<p align="center">A Node.js CQRS/ES Swagger API Microservice </p>
 
 
