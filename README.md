@@ -1,22 +1,7 @@
 
-
-
-
-
-<p align="center">
-  <img src="https://cdn-images-1.medium.com/max/1200/1*feM_-VHhK670LlEQekesKg.png" width="320" alt="Logo" />
-</p>
-  
-<p align="center">A Node.js CQRS/ES Swagger API Microservice </p>
-
-
-
-
 ## Description
 
-Proof of concept CQRS Architecture with Nestjs, Typescript, EventStore running in docker
-
-
+Proof of concept CQRS Architecture with Nestjs, Typescript, EventStore running in docker.
 
 ## Dependency Table
 | Name        | Version           |
@@ -25,6 +10,7 @@ Proof of concept CQRS Architecture with Nestjs, Typescript, EventStore running i
 | [Node.js](https://nodejs.org)      | Dubnium      |
 | [TypeScript](https://www.typescriptlang.org) | 3      |
 | [Docker Compose](https://docker.com) | 3      |
+| [Postgres](https://www.postgresql.org/) | latest     |
 
 
 ## Installation
@@ -48,3 +34,19 @@ $ ./scripts/down.sh  # to stop
 Swagger Explorer URL: http://localhost:7070/api
 
 Event Store URL: http://localhost:2113
+
+Postgres: > command : psql -h localhost -U postgres 
+          > psw     : postgres
+
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1202/1*qCy2-p3v-9sbagBpex1CrA.png" width="320" alt="Logo" />
+</p>
+
+
+  <p align="center">
+  <img src="https://miro.medium.com/max/1400/1*thQY-4Enoc-66V3724AOCA.png" width="320" alt="Logo" />
+</p>
+<p align="center">A Node.js CQRS/ES Swagger API Microservice </p>
+
+
